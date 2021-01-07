@@ -17,7 +17,7 @@ jobs:
           cache-key: "yarn.lock"
       - add_ssh_keys:
               fingerprints:
-                - "34:2c:d3:1d:a8:e3:22:0f:7e:2d:5f:22:4c:43:60:77"
+                - "18:16:49:33:16:36:73:e7:00:8c:fa:a6:a0:57:ca:cf"
   test:
     parallelism: 3
     docker:
